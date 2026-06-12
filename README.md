@@ -36,7 +36,7 @@ O projeto passou por uma **refatoração completa**, elevando o código de um pr
 
 ## 🖥️ Demonstração
 
-> *Deploy disponível em:* **[techstore.vercel.app](#)** *(adicione o link real aqui)*
+> *Deploy disponível em:* **[techstore.vercel.app](#)** *(https://compras-mu-one.vercel.app/)*
 
 ### Prévia
 
