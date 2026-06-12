@@ -1,5 +1,8 @@
 # 🛒 TechStore — Carrinho de Compras
 
+<img width="1898" height="906" alt="image" src="https://github.com/user-attachments/assets/1b38904e-9a61-4185-9347-d8984719377d" />
+
+
 > Aplicação front-end de carrinho de compras com catálogo de produtos, adição/remoção de itens e cálculo de total em tempo real.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
